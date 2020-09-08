@@ -1,0 +1,12 @@
+Validates email when sending a suggestion in "Contact" page
+Requires input on "Sign In" page
+Microphone image on every page of the website
+Suggestion box image on "Contact" page
+Table on "Get the App" page
+External link to anoter website on "Home" page
+Email link in footer of all pages and on "Contact" page
+Audio file on "Home" page
+Alert box appears when "ANNOUNCEMENT" is hovered over on "Home" page
+Images change when hovered over on "Take a Tour" page
+Last modfied date is in footer of every page
+

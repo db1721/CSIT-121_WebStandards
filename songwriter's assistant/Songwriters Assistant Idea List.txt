@@ -1,0 +1,11 @@
+Singwirtiers assistant
+
+Songwriting website:
+-overall
+	font options
+	login
+	album split options
+-Lyric section
+	color coded verse/chorus/hook/prechorus
+-inspration section
+-title section

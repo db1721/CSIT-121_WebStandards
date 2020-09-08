@@ -1,0 +1,24 @@
+body	{background-color: #33D7FF;
+		 color:#221811;
+		 font-family: Arial, Veranda, sans-serif;}
+h1		{background-color: #33B7FF;
+		 text-align:center; 
+		 filter: alpha(opacity=50)}
+h2		{text-align:center;
+		 text-decoration: underline}
+h3		{background-color: #33B7FF}
+h4		{font-style: italic}
+footer	{background-color: #33B7FF;
+		 text-align:center;
+		 font-size:.60em;
+		 font-style:italic}
+#wrapper {width: 80%;
+		  margin-left: auto;
+		  margin-right:auto}
+p		{background-color: #AED6F1;
+		 outline-color: blue;}
+p2		{outline-style: dotted;
+		line-height: 200%;
+		opacity: 0.5;}
+
+ 
